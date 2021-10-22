@@ -6,9 +6,9 @@
 
 [![Email](https://img.shields.io/static/v1?label=邮箱&message=my@laji.email&color=5194f0&logo=gmail&style=flat-square&logoColor=white)](mailto:my@laji.email)
 
-[![Steam](https://img.shields.io/static/v1?label=Steam&message=xiaomai0830&color=5194f0&logo=steam&style=flat-square&logoColor=white)](https://steamcommunity.com/id/xiaomai0830)
+[![Steam](https://img.shields.io/static/v1?label=Steam&message=xiaomai0830&color=lightgrey&logo=steam&style=flat-square&logoColor=white)](https://steamcommunity.com/id/xiaomai0830)
 
-[![Bilibili](https://img.shields.io/static/v1?label=Bilibili&message=M_NinE&color=5194f0&logo=bilibili&style=flat-square&logoColor=white)](https://space.bilibili.com/553591)
+[![Bilibili](https://img.shields.io/static/v1?label=Bilibili&message=M_NinE&color=ff69b4&logo=bilibili&style=flat-square&logoColor=white)](https://space.bilibili.com/553591)
 
 ![Marvin's github stats](https://github-readme-stats.vercel.app/api?username=zanwingMak&show_icons=true&theme=dracula)
 
