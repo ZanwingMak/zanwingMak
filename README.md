@@ -10,7 +10,9 @@
 
 [![Bilibili](https://img.shields.io/static/v1?label=Bilibili&message=M_NinE&color=ff69b4&logo=bilibili&style=flat-square&logoColor=white)](https://space.bilibili.com/553591)
 
-![Marvin's github stats](https://github-readme-stats.vercel.app/api?username=zanwingMak&show_icons=true&theme=dracula)
+<!-- ![Marvin's github stats](https://github-readme-stats.vercel.app/api?username=zanwingMak&show_icons=true&theme=dracula) -->
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=zanwingMak&show_icons=true&theme=dracula">
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanwingMak) -->
 
