@@ -12,10 +12,11 @@
 
 [![Bilibili](https://img.shields.io/static/v1?label=Bilibili&message=M_NinE&color=ff69b4&logo=bilibili&style=flat-square&logoColor=white)](https://space.bilibili.com/553591)
 
-<p align="center">
+<p align="left">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ZanwingMak/count.svg" />
 </p>
+
 
 <!-- ![Marvin's github stats](https://github-readme-stats.vercel.app/api?username=zanwingMak&show_icons=true&theme=dracula) -->
 
