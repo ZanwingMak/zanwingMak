@@ -6,7 +6,7 @@
 
 [![Blog](https://img.shields.io/static/v1?label=Blog&message=laji.blog&color=&logo=bloglovin&style=flat-square&logoColor=white)](https://laji.blog)
 
-[![Email](https://img.shields.io/static/v1?label=Email&message=my@laji.email&color=5194f0&logo=gmail&style=flat-square&logoColor=white)](mailto:my@laji.email)
+<!-- [![Email](https://img.shields.io/static/v1?label=Email&message=my@laji.email&color=5194f0&logo=gmail&style=flat-square&logoColor=white)](mailto:my@laji.email) -->
 
 [![Steam](https://img.shields.io/static/v1?label=Steam&message=xiaomai0830&color=important&logo=steam&style=flat-square&logoColor=white)](https://steamcommunity.com/id/xiaomai0830)
 
