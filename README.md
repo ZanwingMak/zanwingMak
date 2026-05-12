@@ -1,10 +1,10 @@
 <!-- You can click [here](https://laji.blog) to jump to my blog. -->
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=zanwingMak&show_icons=true&theme=dracula">
+<!--<img align='right' src="https://github-readme-stats.vercel.app/api?username=zanwingMak&show_icons=true&theme=dracula">-->
 
 <!-- ### Hi there, I'm Marvin 👋 -->
 
-[![Blog](https://img.shields.io/static/v1?label=Blog&message=laji.blog&color=&logo=bloglovin&style=flat-square&logoColor=white)](https://laji.blog)
+<!-- [![Blog](https://img.shields.io/static/v1?label=Blog&message=laji.blog&color=&logo=bloglovin&style=flat-square&logoColor=white)](https://laji.blog)-->
 
 <!-- [![Email](https://img.shields.io/static/v1?label=Email&message=my@laji.email&color=5194f0&logo=gmail&style=flat-square&logoColor=white)](mailto:my@laji.email) -->
 
